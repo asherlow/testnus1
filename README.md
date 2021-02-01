@@ -8,4 +8,4 @@ well, and there is something .
 * list item 2
 * list item 3
 
-[] (h2.jpg)
+![] (h2.jpg)
